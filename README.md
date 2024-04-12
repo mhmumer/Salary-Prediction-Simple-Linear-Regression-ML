@@ -1,1 +1,1 @@
-<img src="[img_girl.jpg](https://mail.google.com/mail/u/0/?ui=2&ik=5a07db9334&attid=0.1&permmsgid=msg-a:r6552500947320327109&th=18ed3226c9ca6080&view=fimg&realattid=ii_luwvs7hj0&disp=thd&attbid=ANGjdJ94jxm5els8DeoG2Oyq0KWWl3-4Zu_LEe_wyn4dwnqmeprbgkCiL0Xe3LgA-sDw2CaleGL_uW_15PSUXFsvrikeJNzssIPj5wHW1azWxQhU8Ma_9j-TkMeMH70&ats=2524608000000&sz=w1366-h592)" alt="Girl in a jacket" width="500" height="600">
+![image](https://github.com/mhmumer/Salary-Prediction-Simple-Linear-Regression-ML/assets/74130137/d3568354-ef36-4af4-99ab-3bcc19953377)
